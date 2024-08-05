@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ta2</title>
+</head>
+<body>
+<ul>
+    <li>Luis Suarez</li>
+    <li>Facu Torres</li>
+    <li>Kike Olivera</li>
+</ul>
+<ol>
+    <li>Torres Facu</li>
+    <li>Olivera Kike</li>
+    <li>Suarez Luis</li>
+</ol>
+</body>
+</html>
